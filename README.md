@@ -1,1 +1,3 @@
-# teleost_gaba_behavior
+### Effects of GABAA ligands in teleost models.
+#### A systematic literature review of pharmacological, toxicological, and environmental studies of chemicals that affect the activation of the GABAA receptor.
+#### A reproducible research approach will include R-driven meta-analyses from multiple scholarly sources, with the possibility for odds-ratio calculations and other aggregated statistical measures. Sources for behavioral data may include: Pubmed/National Library of Medicine, Google Scholar, Scopus, the Zebrafish Neurophenome Database, etc. Sources for chemical data may include: NCBI Chemicals, chemspider, sigma-aldrich, etc.
